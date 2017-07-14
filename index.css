@@ -1,0 +1,50 @@
+body{
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/0d/9b/24/0d9b24189f42fb3f2563ef854b41ab0f.png");
+    height:100vh;
+}
+
+img{
+    margin-left:550px;
+    height:30vh;
+    
+}
+div#box{
+    background-image:url("https://www.walldevil.com/wallpapers/a55/background-twitter-image-body-blue-backgrounds-original-media.jpg");
+    height: 50vh;
+    width: 70vw;
+    margin-left:150px;
+    margin-top:30px;
+    position:relative;
+    overflow-y:scroll;
+}
+
+input{
+    positive:absolute;
+    margin-left:150px;
+    width:60vw;
+    height:5vh;
+}
+
+button{
+    width:9vw;
+    height:5vh;
+    color:rgba(7, 123, 220, 0.7);
+}
+
+
+button:hover{
+    font-weight:bold;
+    box-shadow: 0 0 5px;
+}
+
+button:active, button:focus{
+    background:rgba(7, 160, 167, 0.7);
+}
+
+p.blue{
+    color:blue;
+}
+
+p.green{
+    color:pink;
+}
